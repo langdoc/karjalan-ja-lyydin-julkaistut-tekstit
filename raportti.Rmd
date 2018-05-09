@@ -1,0 +1,20 @@
+---
+author: "Markus Juutinen & Niko Partanen"
+date: "5/9/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Karjalan ja lyydin kielten julkaistut kielennäytteet
+
+```{r, warning=FALSE}
+suppressPackageStartupMessages(library(tidyverse))
+library(DT)
+read_csv("karjalan-julkaistu-korpus.csv", col_types = "cciccccccccccc") %>%
+  datatable(options = list(pageLength = 40))
+
+```
+
