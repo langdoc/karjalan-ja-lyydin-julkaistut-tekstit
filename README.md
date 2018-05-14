@@ -4,4 +4,4 @@
 
 Taulukko karjalan ja lyydin julkaistuista kielennäytteistä.
 
-> Juutinen, Markus & Partanen, Niko 2018 Karjalan kielen julkaistut tekstit. DOI: 10.5281/zenodo.1243759
+> Juutinen, Markus & Partanen, Niko 2018 Karjalan ja lyydin julkaistut tekstit. DOI: 10.5281/zenodo.1243759
