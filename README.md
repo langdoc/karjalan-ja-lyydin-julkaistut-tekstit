@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/132607317.svg)](https://zenodo.org/badge/latestdoi/132607317)
 
-## Karjalan kielen julkaistut tekstit
+## Karjalan ja lyydin julkaistut tekstit
 
 Taulukko karjalan ja lyydin julkaistuista kielennäytteistä.
 
